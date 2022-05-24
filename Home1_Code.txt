@@ -86,27 +86,3 @@ NewDataSet2 = FOREACH task_1_1_output GENERATE
 task_1_2_dataset = FILTER NewDataSet2 BY (avg_of_purchases_by_coustomer>500);
 DESCRIBE task_1_2_dataset;
 DUMP task_1_2_dataset;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
