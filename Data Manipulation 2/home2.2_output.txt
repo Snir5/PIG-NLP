@@ -1,0 +1,3 @@
+total_customers_purchases: {total_purchases: long,min_purchase: int,max_purchase: int}
+********************************************** total customers purchases ***********************************
+(115483,201,999)
